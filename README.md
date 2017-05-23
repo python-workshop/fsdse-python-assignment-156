@@ -1,5 +1,5 @@
-# fsdse-python-assignment-156
 ## Implement merge sort
+
 * Is a naive solution sufficient?
   * Yes
 * Are duplicates allowed?
